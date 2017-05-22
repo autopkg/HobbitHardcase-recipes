@@ -21,14 +21,26 @@
 				<string>testing</string>
 			</array>
 			<key>description</key>
-			<string>Graphical interface for Git.</string>
+			<string>One-click commit, push and pull. Unique search in history and undo for Git commands. 
+			Powerful commands like rebase, branch reset and cherry picking.
+			And now it works with submodules.
+
+			This app requires a License.</string>
+			<key>category</key>
+			<string>Developer Tools</string>
 			<key>developer</key>
 			<string>Oleg Andreev</string>
+			<key>icon_name</key>
+			<string>Gitbox.png</string>
 			<key>display_name</key>
 			<string>Gitbox</string>
 			<key>name</key>
 			<string>%NAME%</string>
 			<key>unattended_install</key>
+			<true/>
+			<key>uninstall_method</key>
+			<string>remove_copied_items</string>
+			<key>uninstallable</key>
 			<true/>
 		</dict>
 	</dict>
