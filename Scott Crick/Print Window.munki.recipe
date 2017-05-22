@@ -21,14 +21,22 @@
 				<string>testing</string>
 			</array>
 			<key>description</key>
-			<string>Print folder listings from the Finder.</string>
+			<string>Print Window offers the ability to print a file listing directly from within the Mac OS X Finder. No more taking screenshots of windows or settling for text-only printouts of filenames only. Print Window provides the works: icons, file information, sorting and so much more!
+
+			The Standard edition is free but does not have all the features of the Advanced edition. Print Window Advanced Edition is available for purchase and includes all the features described on this page. Both editions come in the same executable file. Advanced features are enabled when a valid serial number is entered. A version comparison can be found at http://searchwaresolutions.com/differences/default.html</string>
 			<key>developer</key>
 			<string>Scott Crick</string>
+			<key>category</key>
+			<string>Productivity</string>
 			<key>display_name</key>
 			<string>Print Window</string>
 			<key>name</key>
 			<string>%NAME%</string>
 			<key>unattended_install</key>
+			<true/>
+			<key>uninstall_method</key>
+			<string>remove_copied_items</string>
+			<key>uninstallable</key>
 			<true/>
 		</dict>
 	</dict>
