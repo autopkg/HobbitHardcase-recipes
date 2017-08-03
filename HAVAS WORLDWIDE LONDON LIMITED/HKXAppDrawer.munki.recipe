@@ -5,7 +5,7 @@
 	<key>Comment</key>
 	<string>Created with Recipe Robot v1.0.5 (https://github.com/homebysix/recipe-robot)</string>
 	<key>Description</key>
-	<string>Downloads the latest version of HKXAppDrawer and imports it into Munki.</string>
+	<string>Downloads the latest version of HKXAppDrawer and imports it into Munki. This will only work for Havas sites. Access from the general internet is blocked.</string>
 	<key>Identifier</key>
 	<string>com.github.hobbithardcase.munki.HKXAppDrawer</string>
 	<key>Input</key>
@@ -23,7 +23,7 @@
 			<key>description</key>
 			<string> </string>
 			<key>developer</key>
-			<string>HAVAS WORLDWIDE LONDON LIMITED</string>
+			<string>Havas</string>
 			<key>display_name</key>
 			<string>HKXAppDrawer</string>
 			<key>name</key>

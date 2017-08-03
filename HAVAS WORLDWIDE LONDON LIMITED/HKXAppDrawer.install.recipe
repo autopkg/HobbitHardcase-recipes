@@ -5,7 +5,7 @@
 	<key>Comment</key>
 	<string>Created with Recipe Robot v1.0.5 (https://github.com/homebysix/recipe-robot)</string>
 	<key>Description</key>
-	<string>Installs the latest version of HKXAppDrawer.</string>
+	<string>Installs the latest version of HKXAppDrawer. This will only work for Havas sites. Access from the general internet is blocked.</string>
 	<key>Identifier</key>
 	<string>com.github.hobbithardcase.install.HKXAppDrawer</string>
 	<key>Input</key>
