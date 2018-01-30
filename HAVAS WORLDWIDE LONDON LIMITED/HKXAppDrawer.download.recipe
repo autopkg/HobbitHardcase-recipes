@@ -11,7 +11,7 @@
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>
-		<string>http://gs04-srv274.globalservs.com/applauncher/updates/latest/download/munki</string>
+		<string></string>
 		<key>NAME</key>
 		<string>HKXAppDrawer</string>
 	</dict>
