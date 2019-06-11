@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.thenikola.download.ScreamingFrogSEOSpider</string>
+	<string>com.github.thenikola.download.ScreamingFrogSEO</string>
 	<key>Process</key>
 	<array>
 		<dict>
