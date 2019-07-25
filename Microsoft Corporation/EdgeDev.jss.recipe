@@ -32,7 +32,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.hobbithardcase.pkg.EdgeDev</string>
+	<string>com.github.hobbithardcase.download.EdgeDev</string>
 	<key>Process</key>
 	<array>
 		<dict>
