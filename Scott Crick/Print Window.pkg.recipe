@@ -10,8 +10,6 @@
 	<string>com.github.hobbithardcase.pkg.PrintWindow</string>
 	<key>Input</key>
 	<dict>
-		<key>BUNDLE_ID</key>
-		<string>com.searchwaresolutions.PrintWindow</string>
 		<key>NAME</key>
 		<string>Print Window</string>
 	</dict>
