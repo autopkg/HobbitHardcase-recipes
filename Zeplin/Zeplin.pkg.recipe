@@ -10,8 +10,6 @@
 	<string>com.github.hobbithardcase.pkg.Zeplin</string>
 	<key>Input</key>
 	<dict>
-		<key>BUNDLE_ID</key>
-		<string>io.zeplin.osx</string>
 		<key>NAME</key>
 		<string>Zeplin</string>
 	</dict>

@@ -10,8 +10,6 @@
 	<string>com.github.hobbithardcase.pkg.HKXAppDrawer</string>
 	<key>Input</key>
 	<dict>
-		<key>BUNDLE_ID</key>
-		<string>com.globalservs.HKXBITeam</string>
 		<key>NAME</key>
 		<string>HKXAppDrawer</string>
 	</dict>

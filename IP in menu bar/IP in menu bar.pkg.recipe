@@ -10,8 +10,6 @@
 	<string>com.github.hobbithardcase.pkg.IPinmenubar</string>
 	<key>Input</key>
 	<dict>
-		<key>BUNDLE_ID</key>
-		<string>de.monkeybreadsoftware.freeware.ipinmenubar</string>
 		<key>NAME</key>
 		<string>IP in menu bar</string>
 	</dict>
