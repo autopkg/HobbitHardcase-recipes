@@ -10,8 +10,6 @@
 	<string>com.github.hobbithardcase.pkg.ScreamingFrogSEOSpider</string>
 	<key>Input</key>
 	<dict>
-		<key>BUNDLE_ID</key>
-		<string>uk.co.screamingfrog.seo.spider</string>
 		<key>NAME</key>
 		<string>Screaming Frog SEO Spider</string>
 	</dict>

@@ -10,8 +10,6 @@
 	<string>com.github.hobbithardcase.pkg.Gitbox</string>
 	<key>Input</key>
 	<dict>
-		<key>BUNDLE_ID</key>
-		<string>com.oleganza.gitbox</string>
 		<key>NAME</key>
 		<string>Gitbox</string>
 	</dict>
